@@ -1,3 +1,4 @@
+// Package hostname provides utilities for working with hostnames
 package hostname
 
 import (
