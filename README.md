@@ -1,4 +1,5 @@
-go-utilities
-============
+# My Golang utilities
 
-Collection of functions I will often re-use
+## Hostname
+
+### Reverse
