@@ -1,5 +1,3 @@
 # My Golang utilities
 
-## Hostname
-
-### Reverse
+See demo.go for more information.
